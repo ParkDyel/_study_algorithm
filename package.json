@@ -1,0 +1,21 @@
+{
+  "name": "study_algorithm",
+  "version": "0.1.0",
+  "description": "",
+  "main": " ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParkDyel/_study_algorithm.git"
+  },
+  "author": "ParkDyel",
+  "bugs": {
+    "url": "https://github.com/ParkDyel/_study_algorithm/issues"
+  },
+  "homepage": "https://github.com/ParkDyel/_study_algorithm#readme",
+  "devDependencies": {
+    "jest": "^27.2.5"
+  }
+}

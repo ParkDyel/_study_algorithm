@@ -74,20 +74,17 @@
 ### Built With
 
 * [Vanilla.js](http://vanilla-js.com/)
-* [live-server](https://www.npmjs.com/package/live-server)
 
 <p align="right"><a href="#top">back to top</a></p>
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-node가 필요합니다!
+Local에서 JavaScript를 실행시키기 위해 Node.js가 필요합니다!
 
 ### Prerequisites
 
-* Node.js
-
-[Node.js](https://nodejs.org/)
+* [Node.js](https://nodejs.org/)
 
 ### Installation
 
